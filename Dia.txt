@@ -4,5 +4,4 @@ Miercoles
 Jueves
 Viernes
 Sabado
-Domingo
 
